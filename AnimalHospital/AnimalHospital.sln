@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalHospital", "AnimalHospital\AnimalHospital.csproj", "{B59F80E0-7342-4D28-8894-1E34E4BC613B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalHospClassLibrary", "AnimalHospClassLibrary\AnimalHospClassLibrary.csproj", "{B25A93E2-FE79-47FC-8C1E-15808B160469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59F80E0-7342-4D28-8894-1E34E4BC613B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59F80E0-7342-4D28-8894-1E34E4BC613B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59F80E0-7342-4D28-8894-1E34E4BC613B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59F80E0-7342-4D28-8894-1E34E4BC613B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25A93E2-FE79-47FC-8C1E-15808B160469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25A93E2-FE79-47FC-8C1E-15808B160469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25A93E2-FE79-47FC-8C1E-15808B160469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25A93E2-FE79-47FC-8C1E-15808B160469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CC9D1C-F9A1-49CF-BFB9-DDA25E70D8F9}
+	EndGlobalSection
+EndGlobal
